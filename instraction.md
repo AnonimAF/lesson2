@@ -2,9 +2,13 @@
 
 ## Highlighting text
 
-To highlight the text in italics, you need to highlight it with asteriks (*). *For exemple*
+To highlight the text in italics, you need to highlight it with asteriks (*) or symbol (_). *For exemple* or _for exemple_ 
 
-To make the text bold, you need to highlight it with an asteriks (**). **For exemple**
+To make the text bold, you need to highlight it with an asteriks (**) or symbol. **For exemple** or __for exemple__
+
+**FOR EXEMPLE:** 
+
+alternative ways of allocating the necessary ones so that thay can be combined _the text can be italicized and **bold** at the same time_
 
 ## Lists
 
