@@ -12,6 +12,8 @@ alternative ways of allocating the necessary ones so that thay can be combined _
 
 ## Lists
 
+To make highlight unnumbered lists, use (*)
+
 ## Working with images
 
 To insert an images
