@@ -14,6 +14,12 @@ alternative ways of allocating the necessary ones so that thay can be combined _
 
 ## Working with images
 
+To insert an images
+
+__For exemple__
+
+![HI, this is gitHUB](i.jpg.webp)
+
 ## Link
 
 ## Worling with tables
